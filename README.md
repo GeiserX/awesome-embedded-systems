@@ -233,6 +233,8 @@ Cross-platform build system. Continuous and IDE integration. Arduino and ARM mbe
 - [Buildroot](https://buildroot.org/) - Buildroot is a simple, efficient and easy-to-use tool to generate embedded Linux systems through cross-compilation.
 - [Mender](https://github.com/mendersoftware/mender) - Open source over-the-air (OTA) software updater for embedded Linux devices.
 - [SWUpdate](https://github.com/sbabic/swupdate) - Linux Update agent with the goal to provide an efficient and safe way to update (local, remote, multiple update strategies) an embedded system.
+- [PiSpot Watch](https://github.com/GeiserX/PiSpot-Watch) - A Raspberry Pi Zero W wearable with a PaPiRus e-ink display that shows WiFi hotspot vouchers. Uses SPI for the e-paper driver, systemd services, and Ansible for fleet deployment.
+- [PiSpot Show](https://github.com/GeiserX/PiSpot-Show) - A Raspberry Pi 3 HDMI kiosk that displays WiFi vouchers with weather integration and PiJuice UPS battery management. Uses GPIO/I2C for the PiJuice HAT, systemd services, and Ansible for fleet deployment.
 
 ### Courses
 
